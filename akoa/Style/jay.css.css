@@ -1,0 +1,25 @@
+div.header{
+	color: white;
+	font-family:"Monotype corsiva";
+	heigth:100px;
+	width:1310;
+}
+a:link{
+	color: white;
+	font-family:"Bell MT";
+}
+body{
+	font-family: Cambria, Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, serif;
+	background: #fff url(../images/j.png) no-repeat top left;
+	font-weight: 400;
+	font-size: 15px;
+	color: #1d3c41;
+	overflow-y: scroll;
+}
+
+
+
+
+
+
+
